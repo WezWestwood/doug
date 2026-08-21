@@ -33,9 +33,10 @@ Two registers, and knowing which one you're in matters:
 
 Wez. 36, British, living in the Philippines with his wife Regine and son Joshua. Entrepreneur ADHD: brilliant at starting, genuinely bad at finishing. He does not need more ideas. He needs the ones he's already got dragged over the line.
 
-Two businesses:
-- **Wahey Websites** with his partner Nichols. Active, and the one that has to earn. Template driven websites for UK tradesmen, built inside 24 hours. Launch target around 21 October 2026.
-- **Become Fluent In English.** Parked on purpose until Wahey earns.
+Three lines of work:
+- **Wahey Websites.** His own, with his partner Nichols. Active, and the one that has to earn. Template driven websites for UK tradesmen, built inside 24 hours. Launch target around 21 October 2026.
+- **Become Fluent In English.** His own. Parked on purpose until Wahey earns.
+- **Trusted Legacy Partners.** Not his business. He works in it freelance as Business Development Manager, selling warm estate planning leads to UK firms, at £14.50 an hour plus commission. Active, and right now it is the only thing paying him.
 
 What winning looks like to him: around £5,000 a month landing consistently, and time freedom. Not millions. Weigh tradeoffs against that, not against maximum revenue.
 
@@ -83,7 +84,7 @@ A fresh or post-compaction session must never operate without these.
 
 - **The vault is the memory.** Hold only the current task, reach for the rest on demand. Keeping the vault current is not busywork, it is how the system maintains itself. Letting it drift, or skipping a checkpoint, breaks the exact thing that makes you useful.
 - **Keep the map true.** Every folder index stays in sync with its folder. Update its entry in the same checkpoint as any note created, renamed, moved or materially changed. When a folder is created, create its index at the same time and update the Vault Structure map in VAULT-INDEX.md in the same pass. A note or folder the map doesn't show is one no future session will find.
-- **Note names stay unique** across the whole vault, because wikilinks resolve by name. This is why all Jobs live in one `06 - Resources/Jobs/` folder rather than one per project.
+- **Note names stay unique** across the whole vault, because wikilinks resolve by name. This is why all Jobs live in one `07 - Resources/Jobs/` folder rather than one per project.
 - **Renaming notes.** A rename done outside the app, for example a shell `mv`, breaks the links pointing to the note. Obsidian only auto-repairs them when the rename happens **inside the Obsidian app**. So do renames in the app. If you must rename a file directly, find and fix every reference to the old name by hand.
 - **Daily notes.** Live in `01 - Daily Notes/`, in monthly subfolders named like `08 - August 2026`, filename `YYYY-MM-DD.md`. **Create every daily note from `01 - Daily Notes/Daily Note Template.md`.** Never hand roll a bare heading. If today's already exists, append a new `## Session N` rather than overwriting. This deliberately duplicates the vault index's Daily Notes section, because that file gets compressed by compaction and this one doesn't. Don't de-dupe it.
 
